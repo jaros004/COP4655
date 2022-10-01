@@ -23,4 +23,4 @@ The following **bonus** features are implemented:\
 \
 Here's a walkthrough of implemented user stories:\
 \
-<img src='https://github.com/jaros004/COP4655/blob/458175ff4e2f2fe4645ce96bd7b223b1e3221f8b/twitter.gif'' alt='Video Walkthrough' />}
+<img src='https://github.com/jaros004/COP4655/blob/458175ff4e2f2fe4645ce96bd7b223b1e3221f8b/twitter.gif' alt='Video Walkthrough' />}

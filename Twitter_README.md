@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jaros004/COP4655/blob/36a38238333054e430c741a7178619c72579d194/Twitter_Part2.gif' width='' alt='Video Walkthrough' />
